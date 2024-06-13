@@ -1,0 +1,15 @@
+
+    Vad är Androids 'R' för något, vad innehåller den för information, hur genereras den? Hur används den i Android-kod, t.ex. i onCreate i en Activity?
+    Androids R
+Det är en autogenererad klass som sparar information om views, så att man t.ex. kan få tag på ett views id.
+
+
+    Vad är Gradle? Vad innebär Gradle sync?
+
+Gradle är verktyg som används för att underlätta byggprocessen. Gradle synkroniserar gradle med resten av koden
+
+    Vad brukar man lägga med för inställningar i de build.gradle filer som finns i varje projekt, dvs. a) i build.gradle på projektnivå b) build.gradle på app-nivå
+
+projektnivå: olika bibliotek, kompileringsverisioner
+
+appnivå: SDK verisioner osv.
