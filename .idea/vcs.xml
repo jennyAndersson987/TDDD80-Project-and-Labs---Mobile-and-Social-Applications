@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyApplication/project_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/labA2/tddd80android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project_android/app/project_android" vcs="Git" />
   </component>
 </project>
