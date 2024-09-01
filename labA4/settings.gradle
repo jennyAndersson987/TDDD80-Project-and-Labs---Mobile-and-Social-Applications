@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LabA4"
-include ':app'
+rootProject.name = "My Application"
 include ':app'

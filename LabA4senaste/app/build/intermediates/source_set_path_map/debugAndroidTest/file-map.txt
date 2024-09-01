@@ -1,5 +1,0 @@
-com.example.laba4senaste.test.app-core-1.6.1-0 C:\Users\46721\.gradle\caches\transforms-3\7380f3a480cb1c89c6a2760144be3ef0\transformed\core-1.6.1\res
-com.example.laba4senaste.test.app-androidTest-1 C:\Users\46721\Desktop\LabA4senaste\app\build\generated\res\resValues\androidTest\debug
-com.example.laba4senaste.test.app-mergeDebugAndroidTestResources-2 C:\Users\46721\Desktop\LabA4senaste\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.laba4senaste.test.app-mergeDebugAndroidTestResources-3 C:\Users\46721\Desktop\LabA4senaste\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.laba4senaste.test.app-merged_res-4 C:\Users\46721\Desktop\LabA4senaste\app\build\intermediates\merged_res\debugAndroidTest

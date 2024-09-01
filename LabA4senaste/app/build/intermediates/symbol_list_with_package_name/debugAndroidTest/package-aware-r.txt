@@ -1,3 +1,0 @@
-com.example.laba4senaste.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
