@@ -1,0 +1,15 @@
+
+    Vad är Java beans för något?
+Java beans är en vanlig javaklass med följande egenskaper:
+1. Alla fält och metoder är private, alltså använder klassen getters och setters istället
+2. En public konstruktor utan argument
+3. Implementerar Serealizable
+
+    Vad är det för fördel med att använda biblioteket gson, gentemot den inbyggda json-parsern?
+Gson kan konvertera komplexa javaobjekt, till exempel listor, till json och tillbaka.
+Detta kräver mindre arbete jämfört med den inbyggda json-parsern.
+
+    Vad är den viktigaste, mest centrala frågan, som ni har behövt Googla på under laborationens gång?
+Hur fungerar OkHttpClient?
+Detta sökte jag upp för att lära mig själva strukturen av närverksanropen, dvs att man först skapar en client,
+sedan bygga och skicka en request, hantera svaret osv.

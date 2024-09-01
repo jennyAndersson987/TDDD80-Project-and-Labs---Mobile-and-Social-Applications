@@ -87,7 +87,6 @@ public class PrimaryFragment extends Fragment {
                             );
                         }
                     } catch (JsonSyntaxException e) {
-                        Log.e("PrimaryFragment", "Failed to parse JSON", e);
                         getActivity().runOnUiThread(() ->
                                 Toast.makeText(getContext(), "Failed to parse data", Toast.LENGTH_SHORT).show()
                         );

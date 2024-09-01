@@ -49,7 +49,6 @@ public class DetailFragment extends Fragment {
         view = binding.getRoot();
 
         Bundle args = getArguments();
-        Log.d("args", args.toString());
         Bundle itemTextBundle = args.getBundle("itemtext");
         String groupName = itemTextBundle.getString("title");
 
@@ -98,7 +97,6 @@ public class DetailFragment extends Fragment {
                         }
                     });
                 } else {
-                    Log.d("whoops", response.toString());
                     getActivity().runOnUiThread(() ->
                             binding.textView2.setText("Failed to load details")
                     );
