@@ -1,0 +1,14 @@
+
+    Hur inkluderar man externa bibliotek i ett Android-projekt?
+
+Man lägger till dem under dependencied i gradlefilen på app nivå. Sedan måste man bygga om projektet
+så att gradle kan syncas.
+
+    Vad är det för skillnad i funktionalitet/roll mellan Activity, Fragment, och View? Hur används de i en app?
+
+En activity är en enskild skärm som användaren kan trycka på osv. Ett fragment är en del av activityn lite som ett building block.
+Fragments bygger upp en activity. En view är det som bygger upp en fragment, t.ex.textview osv.
+
+    Vad är den viktigaste, mest centrala frågan, som ni har behövt Googla på under laborationens gång?
+
+Hur bundles fungerar. Bundle är ett klass som gör att man kan skicka data mellan flera fragments.
