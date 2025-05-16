@@ -28,9 +28,7 @@ public class PrimaryFragment extends Fragment {
 
     View view;
 
-
     Bundle bundle = new Bundle();
-    Intent intent;
 
     private ArrayAdapter<String> adapter;
 
@@ -63,7 +61,8 @@ public class PrimaryFragment extends Fragment {
             new Objects("hej", "hejsan"),
                 new Objects("jenny", "andersson"),
                 new Objects("lisa", "lisa säger hej"),
-                new Objects("Cora", "cora cora cora hej")
+                new Objects("Cora", "cora cora cora hej"),
+                new Objects("hejsan", "hello")
         };
 
         for(Objects object :objects){

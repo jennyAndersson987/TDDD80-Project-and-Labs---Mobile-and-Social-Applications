@@ -13,8 +13,4 @@ public class Objects {
     public String getText() {
         return text;
     }
-
-    public String getDetailText() {
-        return detailText;
-    }
 }
